@@ -1,0 +1,19 @@
+{
+  "name": "akyuu-adapter-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akyuujs/akyuu-adapter-socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akyuujs/akyuu-adapter-socket/issues"
+  },
+  "homepage": "https://github.com/akyuujs/akyuu-adapter-socket#readme"
+}
